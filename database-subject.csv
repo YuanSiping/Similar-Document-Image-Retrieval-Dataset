@@ -1,0 +1,149 @@
+id,label,images,subject
+1,A,82,AlexNet：ImageNet Classification with Deep Convolutional Neural Networks ImageNet
+2,AC,58,A computational intelligence technique for the effective diagnosis of diabetic patients using principal component analysis (PCA) and modified fuzzy SLIQ decision tree approach
+3,AM,68,A cost sensitive decision tree algorithm based on weighted class distribution with batch deleting attribute mechanism
+4,AN,22,A Novel Visualization Method of Power Transmission Lines
+5,AP,42,"Application and comparison of RNN, RBFNN and MNLR approaches on prediction of flotation column performance"
+6,AR,87,Association rule mining with mostly associated sequential patterns
+7,AS,49,A survey on deep learning-based fine-grained object classification and semantic segmentation
+8,BC,24,BinaryConnect Training Deep Neural Networks with binary weights during propagations
+9,BT,65,Binarized Neural Networks Training Neural Networks withWeights and Activations Constrained to +1 or -1
+10,C,92,Cambricon：An Instruction Set Architecture for Neural Networks
+11,CN,66,Convolutional Neural Networks using Logarithmic Data Representation
+12,CP,81,Channel Pruning for Accelerating Very Deep Neural Networks
+13,CX,86,Cambricon-X：An Accelerator for Sparse Neural Networks
+14,D,50,Distance and similarity measures between hesitant fuzzy sets and their application in pattern recognition
+15,DC,73,"Deep Compression：Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding"
+16,DDN,90,DaDianNao：A Machine-Learning Supercomputer
+17,DE,84,Deep learning with low precision by half-wave gaussian quantization
+18,DI,112,Distilling the Knowledge in a Neural Network
+19,DL,89,Deep learning (nature 14539)
+20,DM,91,Deep Model Compression：Distilling Knowledge from Noisy Teachers
+21,DN,96,DianNao：A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning
+22,DNS,56,Dynamic Network Surgery for Efficient DNNs
+23,DO,80,"Design of Efficient Convolutional Layers using Single Intra-channel Convolution,Topological Subdivisioning and Spatial ""Bottleneck"" Structure"
+24,DR,80,DoReFa-Net：Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients
+25,DS,77,DSD:Dense-Sparse-Dense Training for Deep Neural Networks
+26,E,43,Evaluating the capacity planning of industrial self-generation in penetration of renewable energy
+27,EB,67,Economic batch sizing and scheduling on parallel machines under time-of-use electricity pricing
+28,EI,112,EIE：Efficient Inference Engine on Compressed Deep Neural Network
+29,EL,23,An economic and low-carbon day-ahead Pareto-optimal scheduling for wind farm integrated power systems with demand response
+30,EN,58,Energy Storage Modeling for Distribution Planning
+31,EQ,75,Effective Quantization Methods for Recurrent Neural Networks
+32,EX,83,Exploiting linear structure within convolutional networks for ef?cient evaluation
+33,F,113,Feature selection methods for big data bioinformatics A survey from the search perspective
+34,FM,43,Face Model Compression by Distilling Knowledge from Neurons
+35,G,90,Geometric-Similarity Retrieval in Large Image Bases
+36,GC,38,Green Computing Evaluation Process
+37,GE,60,Genealogy of the“Grandmother Cell”
+38,GO,66,GoogLeNet：Going deeper with convolutions
+39,GR,71,Gender recognition and biometric identification using a large dataset of hand images
+40,H,44,Hardware-oriented Approximation of Convolutional Neural Networks
+41,HA,96,HashNet：Deep Learning to Hash by Continuation
+42,I,22,Implementation of High Accuracy-based Image Transformation Module in Cloud Computing
+43,IM,49,Improving the speed of neural networks on CPUs
+44,IN,46,Incremental Network Quantization：Towards Lossless CNNs with Low-Precision Weights
+45,IP,42,An Improved Particle Swarm Optimization for Economic Dispatch with Carbon Tax
+46,IV,65,"Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning"
+47,L,106,LLNet：A deep auto encoder approach to natural low-light image enhancement
+48,LB,51,Learning both Weights and Connections for Ef?cient Neural Networks
+49,LS,52,Large Scale Distributed Deep Networks
+50,M,42,MPtostream an OpenMP compiler for CPU-GPU heterogeneous parallel systems
+51,ME,70,MobileNets：Efficient Convolutional Neural Networks for Mobile Vision Applications
+52,N,17,Carbon Emissions Modeling of China Using Neural Network
+53,NN,57,Network In Network
+54,O,146,On predicting learning styles in conversational intelligent tutoring systems using fuzzy decision trees
+55,OD,64,Object detectors emerge in deep scene CNNs
+56,OP,42,Optimizing Performance of Recurrent Neural Networks on GPUs
+57,OT,43,On the Compression of Recurrent Neural Networks with an Application to LVCSR acoustic modeling for Embedded Speech Recognition
+58,P,80,Pattern Recognition in Latin America in the“Big Data”Era
+59,PE,73,PerforatedCNNs：Acceleration through Elimination of Redundant Convolutions
+60,PF,67,Pruning Filters for Efficient ConvNets
+61,PI,114,Potential improvement of classifier accuracy by using fuzzy measures
+62,PL,86,Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+63,PM,51,Probabilistic Non-Local Means
+64,PN,35,Production Strategy of Carbon Sensitive Products under Low-Carbon Policies
+65,PO,22,Research of Power Generation Right Transaction Scheduling Model Considering Carbon Emission Constraint Blocking
+66,PR,108,Palmprint recognition with Local Micro-structure Tetra Pattern
+67,PV,39,PVANet：Deep but Lightweight Neural Networks for Real-time Object Detection
+68,Q,95,Quantized Convolutional Neural Networks for Mobile Devices
+69,QN,121,Quantized neural networks：Training neural networks with low precision weights and activations
+70,R,82,Natural image statistics and neural representation
+71,RA,71,Refining Architectures of Deep Convolutional Neural Networks
+72,RD,41,Reshaping deep neural network for fast decoding by node-pruning
+73,RF,156,Rich feature hierarchies for accurate object detection and semantic segmentation Tech report
+74,RO,43,Restructuring of Deep Neural Network Acoustic Models with Singular Value Decomposition
+75,RS,123,Deep Residual Learning for Image Recognition
+76,S,39,Skew Correction and Line Extraction in Binarized Printed Text Images
+77,SA,97,SqueezeNet：AlexNet-level accuracy with 50x fewer parameters and <1MB model size
+78,SC,81,Scalable and modularized RTL compilation of Convolutional Neural Networks onto FPGA
+79,SDN,87,ShiDianNao：Shifting Vision Processing Closer to the Sensor
+80,SG,124,Scalable and Sustainable Deep Learning via Randomized Hashing
+81,SH,49,ShuffleNet：An Extremely Efficient Convolutional Neural Network for Mobile Devices
+82,SP,71,Sparsifying Neural Network Connections for Face Recognition
+83,SS,125,Semisupervised Subspace-Based DNA Encoding and Matching Classifier for Hyperspectral Remote Sensing Imagery
+84,T,24,Ternary weight networks
+85,TR,63,Text Recognition for Information Retrieval in Images of Printed Circuit Boards
+86,TS,67,Outrageously Large Neural Networks：The Sparsely-Gated Mixture-of-Experts Layer
+87,TT,66,Trained Ternary Quantization
+88,TW,26,The ways of streamlining digital image processing algorithms used for detection of lines in transport scenes video recording
+89,U,161,"Urban Computing： Concepts, Methodologies, and Applications"
+90,V,59,Return of the Devil in the Details: Delving Deep into Convolutional Nets
+91,X,36,XNOR-Net：ImageNet Classification Using Binary Convolutional Neural Networks
+92,XD,60,Xception：Deep Learning with Depthwise Separable Convolutions
+93,一,50,一种新颖的自动图像标注方法
+94,七,126,神经网络七十年：回顾与展望
+95,与,107,大数据与深度学习综述
+96,个,48,个性化图像推荐及可视化研究
+97,中,50,中美关于社会突发性事件报道的差异比较
+98,云,53,面向全球能源互联网的分布式电源云服务与大数据分析平台研究
+99,互,97,能源互联网大数据分析技术综述
+100,人,69,人工神经网络在化工过程中的应用进展
+101,全,59,面向全球能源互联网的电力大数据基础体系架构和标准体系研究
+102,关,71,能源互联网关键技术分析
+103,写,47,基于构造纹理图像的数字隐写
+104,分,57,基于分布式可再生能源发电的能源互联网系统
+105,华,101,CNN对华政治性突发事件的报道分析
+106,卷,55,基于卷积神经网络的多标签图像自动标注
+107,卷积,96,卷积神经网络详述
+108,双,38,双通道分块同态滤波彩色图像增强算法
+109,发,31,计及需求响应的含风电场电力系统发电与碳排放权联合优化调度
+110,图,58,基于MapReduce的图像分类方法
+111,基,56,基于空间分布的三维自动化肺结节分割算法
+112,基于,48,基于内容的特定图像过滤方法
+113,多,71,能源互联网多能扰动识别的数据流处理模型
+114,大,15,大数据环境下的能源互联网发展趋势分析
+115,奶,110,基于Web的奶牛图像识别及图像信息管理系统的研究
+116,学,32,学术论文写作浅析
+117,定,81,一类非多项式微分系统的定性分析
+118,展,118,基于图割的图像分割方法及其新进展
+119,工,52,神经网络及其在工程管理中的应用
+120,布,118,能量互联下分布式设备协调控制软件系统平台方案设计
+121,平,24,平面定性理论中的中心焦点判别
+122,彩,97,彩色图像分割方法综述
+123,微,26,两类三次微分系统的中心焦点问题
+124,心,26,从风险决策中的多次博弈到单次博弈——量变还是质变？
+125,技,119,能源互联网技术形态与关键技术
+126,探,122,美国主流媒体涉华报道分析
+127,数,22,数字图像处理技术研究进展
+128,最,101,最小代价路径标签传播算法
+129,浅,74,浅析CNN效应
+130,深,44,深度卷积神经网络的多GPU并行框架
+131,深度,52,深度学习研究综述
+132,焦,69,关于焦点问题
+133,环,80,几类多项式微分系统的中心焦点判定与极限环分支
+134,用,42,大数据在用户供电可靠性预测评估中的应用
+135,电,69,能源互联网形势下的电力大数据发展趋势
+136,社,39,人才招聘系统的设计与开发
+137,神,29,神经网络综述
+138,神经,49,神经网络发展综述
+139,种,104,一种基于CNN视频运动对象分割的研究
+140,算,86,基于细胞神经网络的图像边缘提取算法研究
+141,细,86,基于细胞神经网络的应用研究
+142,综,50,卷积神经网络的研究进展综述
+143,美,81,基于并行深度卷积神经网络的图像美感分类
+144,能,78,基于能量路由器的智能型分布式能源网络技术
+145,路,71,能源互联网与能源路由器
+146,述,168,卷积神经网络研究综述
+147,集,45,集成学习算法在增量学习中的应用研究
+148,面,35,面向能源互联网的大数据关键技术研究
